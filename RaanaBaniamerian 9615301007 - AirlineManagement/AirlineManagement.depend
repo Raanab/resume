@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1627199523 source:d:\uni\992\advanced programming\final project\mine\airlinemanagement\main.cpp
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<time.h>
+	<iostream>
+	<vector>
+	<string.h>
+	"Airplane.h"
+	"Attendant.h"
+	"Flight.h"
+	"Human.h"
+	"Passenger.h"
+	"Pilot.h"
+	"Ticket.h"
+	"Time.h"
+
+1627201942 d:\uni\992\advanced programming\final project\mine\airlinemanagement\human.h
+	<iostream>
+
+1627201912 d:\uni\992\advanced programming\final project\mine\airlinemanagement\passenger.h
+	"Human.h"
+
+1627201957 d:\uni\992\advanced programming\final project\mine\airlinemanagement\attendant.h
+	"Human.h"
+	"Date.h"
+	<vector>
+	"Time.h"
+
+1627199348 d:\uni\992\advanced programming\final project\mine\airlinemanagement\date.h
+	<ctime>
+	<iostream>
+
+1627202093 source:d:\uni\992\advanced programming\final project\mine\airlinemanagement\date.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Date.h"
+
+1626960705 d:\uni\992\advanced programming\final project\mine\airlinemanagement\essentials.h
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<time.h>
+	<iostream>
+
+1627201976 d:\uni\992\advanced programming\final project\mine\airlinemanagement\airplane.h
+	"Flight.h"
+	<vector>
+
+1627201998 d:\uni\992\advanced programming\final project\mine\airlinemanagement\flight.h
+	"Ticket.h"
+	"Passenger.h"
+	"Pilot.h"
+	<vector>
+	"Attendant.h"
+
+1627202041 d:\uni\992\advanced programming\final project\mine\airlinemanagement\ticket.h
+	<iostream>
+	"Date.h"
+	"Passenger.h"
+	"Time.h"
+
+1627201893 d:\uni\992\advanced programming\final project\mine\airlinemanagement\pilot.h
+	"Attendant.h"
+
+1627202257 source:d:\uni\992\advanced programming\final project\mine\airlinemanagement\time.cpp
+	<iostream>
+	<iomanip>
+	"Time.h"
+
+1626626237 d:\uni\992\advanced programming\final project\mine\airlinemanagement\time.h
+
+1627200578 source:d:\uni\992\advanced programming\final project\mine\airlinemanagement\human.cpp
+	"Human.h"
+	<iostream>
+
+1626960986 source:d:\uni\992\advanced programming\final project\mine\airlinemanagement\passenger.cpp
+	"Human.h"
+	"Passenger.h"
+	<iostream>
+
+1627202081 source:d:\uni\992\advanced programming\final project\mine\airlinemanagement\attendant.cpp
+	"Attendant.h"
+	"Human.h"
+	"Date.h"
+	<vector>
+	"Time.h"
+
+1627202177 source:d:\uni\992\advanced programming\final project\mine\airlinemanagement\pilot.cpp
+	<iostream>
+	"Pilot.h"
+	"Attendant.h"
+
+1627202200 source:d:\uni\992\advanced programming\final project\mine\airlinemanagement\airplane.cpp
+	"AirPlane.h"
+	"Flight.h"
+	<vector>
+
+1627202120 source:d:\uni\992\advanced programming\final project\mine\airlinemanagement\flight.cpp
+	"Flight.h"
+	"Ticket.h"
+	"Passenger.h"
+	"Pilot.h"
+	<vector>
+	"Attendant.h"
+
+1627202223 source:d:\uni\992\advanced programming\final project\mine\airlinemanagement\ticket.cpp
+	"Ticket.h"
+	<iostream>
+	"Date.h"
+	"Passenger.h"
+	"Time.h"
+
